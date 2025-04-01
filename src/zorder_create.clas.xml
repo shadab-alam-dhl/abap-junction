@@ -17,6 +17,11 @@
      <LANGU>E</LANGU>
      <DESCRIPT>Sales and Distribution Document Number</DESCRIPT>
     </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SALES_ORG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales Organization</DESCRIPT>
+    </SEOCOMPOTX>
    </DESCRIPTIONS>
   </asx:values>
  </asx:abap>

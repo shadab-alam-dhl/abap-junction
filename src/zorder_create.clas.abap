@@ -8,6 +8,7 @@ protected section.
 private section.
 
   class-data ORDER_NUMBER type VBELN .
+  class-data SALES_ORG type VKORG .
 ENDCLASS.
 
 
